@@ -3,6 +3,8 @@
 # Description : This Python script performs data cleaning, analyzes the Iris dataset 
 #               through visualizations, and implements a Decision Tree classifier, 
 #               providing key insights and model evaluation metrics
+
+
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, precision_score, recall_score,classification_report
@@ -21,7 +23,6 @@ iris_data = pd.read_csv(file_path, names =column_names)
 def printline():
     print("---------------------------------------------------------")
    
-
 # Print the title and the number of rows and columns
 rows , columns = iris_data.shape
 console = Console() # Create a Console object
