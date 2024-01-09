@@ -1,5 +1,4 @@
 # Author      : Madhumitha Sukumar
-# Time period : 3 Jan 2023 - 9 Jan 2023
 # Description : This Python script performs data cleaning, analyzes the Iris dataset 
 #               through visualizations, and implements a Decision Tree classifier, 
 #               providing key insights and model evaluation metrics
