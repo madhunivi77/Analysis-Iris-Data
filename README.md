@@ -1,5 +1,3 @@
-# Analysis-Iris-Data
-
 # Flower Prediction using Iris Dataset
 
 This project focuses on predicting the species of flowers using the Iris dataset. The Iris dataset is a classical dataset in the machine learning community, used for classification tasks with the goal of predicting species of iris plants.
